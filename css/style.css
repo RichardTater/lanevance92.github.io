@@ -105,7 +105,8 @@ a:hover {
 
 .paralax-mf {
   position: relative;
-  padding: 8rem 0;
+  /* padding: 8rem 0; */
+  padding-top: 3rem
 }
 
 .display-table {
@@ -682,6 +683,7 @@ a:hover {
 
 .about-mf .about-img img {
   margin-left: 10px;
+  height: 450px;
 }
 
 .skill-mf span {
@@ -703,6 +705,10 @@ a:hover {
 /*======================================
 //--//-->   SERVICES
 ======================================*/
+
+.services-mf{
+  margin-top: 2rem
+}
 
 .service-box {
   background-color: #fff;
